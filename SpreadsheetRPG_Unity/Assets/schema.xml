@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<monsters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <monster>
+       <Name>Smith</Name>
+       <Health>16753</Health>
+       <Strength>1</Strength>
+    </monster>
+    <monster>
+       <Name>Johnson</Name>
+       <Health>14808</Health>
+       <Strength>3</Strength>
+    </monster>
+</monsters>
